@@ -1,5 +1,7 @@
 *** DEPRECATION NOTICE ***
 
-This repository will soon be merged with regular RepRap repositories which have now been added to GitHub.
+This repository has been merged with regular RepRap repositories which have now been added to GitHub. You can find this repository in the branch 'OpenSCAD' of the reprap/mendel repository.
 
-Please do not use this repository anymore for active development, but use github.com/reprap/mendel
+Please do not use this repository anymore for active development, but use github.com/reprap/mendel.
+
+This repository will be removed in the near future.
